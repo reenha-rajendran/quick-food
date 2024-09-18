@@ -1,0 +1,62 @@
+.navigation-menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.navigation-menu li {
+  margin: 0 15px;
+  position: relative;
+}
+
+.navigation-menu li a {
+  text-decoration: none;
+  color: #333; /* Darker color for better readability */
+  font-weight: 500; /* Slightly bold for better emphasis */
+  font-size: 1rem; /* Adjust font size for better balance */
+  transition: color 0.3s ease, border-bottom 0.3s ease; /* Smooth transitions */
+}
+
+.navigation-menu li a:hover,
+.navigation-menu li a:focus {
+  color: #ffa500; /* Highlight color on hover */
+  border-bottom: 2px solid #ffa500; /* Underline on hover */
+}
+
+.active {
+  color: #ffa500 !important; /* Active link color */
+  font-weight: bold !important; /* Bold active link */
+}
+
+/* Mobile view */
+.mobile-navigation {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mobile-navigation li {
+  margin-top: 15px;
+  border-bottom: 1px solid #ddd; /* Divider between items */
+}
+
+.mobile-navigation li:last-child {
+  border-bottom: none; /* Remove bottom border from last item */
+}
+
+.mobile-navigation li a {
+  text-decoration: none;
+  font-size: 1.2rem; /* Adjust font size for mobile */
+  color: #333; /* Consistent color with desktop */
+  display: block; /* Ensure full width clickable area */
+  padding: 10px 15px; /* Add padding for better touch experience */
+}
+
+.mobile-navigation li a:hover,
+.mobile-navigation li a:focus {
+  color: #ffa500; /* Highlight color on hover */
+  background-color: #f8f8f8; /* Subtle background change on hover */
+}
