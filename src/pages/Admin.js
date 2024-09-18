@@ -22,7 +22,7 @@ function AdminPage() {
   const [open, setOpen] = useState(false);
   const [meals, setMeals] = useState([]);
   const [orders, setOrders] = useState([]);
-  const [completedOrders, setCompletedOrders] = useState([]);
+  const [completedOrders] = useState([]);
   const [formData, setFormData] = useState({
     name: "",
     description: "",

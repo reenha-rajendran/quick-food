@@ -51,8 +51,7 @@ const About = () => {
               here to cater to your every need. Thank you for choosing Quick
               Food. We look forward to serving you!
             </p>
-            Warm regards,
-            <p>The Quick Food Team</p>
+            The Quick Food Team
           </Typography>
         </Container>
       </Box>
