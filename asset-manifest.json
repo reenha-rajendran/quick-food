@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/quick-food/static/css/main.c6a7c673.css",
-    "main.js": "/quick-food/static/js/main.9ab3d3ab.js",
-    "static/js/453.c28b8e3f.chunk.js": "/quick-food/static/js/453.c28b8e3f.chunk.js",
-    "static/media/banner.png": "/quick-food/static/media/banner.e5a4f42c9ba0946aeb1d.png",
-    "static/media/logo.png": "/quick-food/static/media/logo.c42511a56e44b0d7abb0.png",
-    "index.html": "/quick-food/index.html",
-    "main.c6a7c673.css.map": "/quick-food/static/css/main.c6a7c673.css.map",
-    "main.9ab3d3ab.js.map": "/quick-food/static/js/main.9ab3d3ab.js.map",
-    "453.c28b8e3f.chunk.js.map": "/quick-food/static/js/453.c28b8e3f.chunk.js.map"
+    "main.css": "/quick-food/home/static/css/main.c6a7c673.css",
+    "main.js": "/quick-food/home/static/js/main.3cb6530a.js",
+    "static/js/453.c28b8e3f.chunk.js": "/quick-food/home/static/js/453.c28b8e3f.chunk.js",
+    "static/media/banner.png": "/quick-food/home/static/media/banner.e5a4f42c9ba0946aeb1d.png",
+    "static/media/logo.png": "/quick-food/home/static/media/logo.c42511a56e44b0d7abb0.png",
+    "index.html": "/quick-food/home/index.html",
+    "main.c6a7c673.css.map": "/quick-food/home/static/css/main.c6a7c673.css.map",
+    "main.3cb6530a.js.map": "/quick-food/home/static/js/main.3cb6530a.js.map",
+    "453.c28b8e3f.chunk.js.map": "/quick-food/home/static/js/453.c28b8e3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a7c673.css",
-    "static/js/main.9ab3d3ab.js"
+    "static/js/main.3cb6530a.js"
   ]
 }
